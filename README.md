@@ -1,4 +1,4 @@
-# Guess-My-Card
+# Guess-My-Card-Game
 Guess My Card allows the user to select a card color (red or black)
 
 The program then indicates if their selection matches the color of the randomly generated card's suit:
